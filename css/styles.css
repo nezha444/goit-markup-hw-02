@@ -48,15 +48,15 @@ a{
   font-weight: 500;
 }
 
-.link-spc-li{
+.link-spc-item{
   color: var(--color-text);
   font-weight: 500;
   font-size: 16px;
 
 }
 
-.link-spc-a:hover,
-.link-spc-a:focus{
+.link-spc-link:hover,
+.link-spc-link:focus{
   color: var(--color-ocean);
 }
 
@@ -102,13 +102,13 @@ h1{
   line-height: 1.2;
 }
 
-.skil-p{
+.skil-text{
   font-size: 16px;
   letter-spacing: 1.5;
   color: var(--color-text);
 }
 
-.h2{
+.title{
   font-weight: 700;
   font-size: 36px;
   line-height: 1.1;
@@ -134,7 +134,7 @@ h1{
   color: #F4F4FD
 }
 
-.footer-p{
+.footer-text{
   font-size: 16px;
   line-height: 1.5;
   color: #F4F4FD;
@@ -146,7 +146,7 @@ h1{
 
 /* Портфолио */
 
-.prtf-button-li{
+.prtf-button-item{
   background-color: #E7E9FC;
   color: var(--color-iris);
   font-weight: 500;
@@ -155,8 +155,8 @@ h1{
   letter-spacing: 0.04em;
 }
 
-.prtf-button-li:hover,
-.prtf-button-li:focus{
+.prtf-button-item:hover,
+.prtf-button-item:focus{
   background-color: var(--color-ocean);
   color: var(--color-white);
 }
