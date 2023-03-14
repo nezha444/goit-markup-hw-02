@@ -31,6 +31,10 @@ a{
   font-style: normal;
 }
 
+ul{
+  list-style: none;
+}
+
 .link-logo{
   font-family: var(--font-family-Raleway);
   font-size: 18px;
